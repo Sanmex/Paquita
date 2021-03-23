@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Paquita</string>
+    <string name="no">Nombre</string>
+    <string name="bl">Inicio</string>
+    <string name="bre">Registro</string>
+    <string name="A">Apellido</string>
+    <string name="U">Usuario</string>
+    <string name="P">Contraseña</string>
+    <string name="M">Email</string>
+    <string name="play">Encender</string>
+    <string name="stop">Apagar</string>
+    <string name="camp">Llena todos los campos.</string>
+    <string name="bi">¡Bienvenido!</string>
+    <string name="uscon">Usuario o contraseña incorrectos.</string>
+    <string name="YA">Usuario ya registrado</string>
+    <string name="uni">¡Te has unido!</string>
+    <string name="us">¡Hola de nuevo!</string>
+    <string name="can">¡Canta!</string>
+    <string name="vu">¡Vuelve pronto!</string>
+
+
+
+</resources>

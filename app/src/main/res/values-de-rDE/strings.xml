@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paquita</string>
+    <string name="no">Name</string>
+    <string name="bl">Start</string>
+    <string name="bre">Beitreten</string>
+    <string name="A">Nachname</string>
+    <string name="U">Benutzer</string>
+    <string name="P">Passwort</string>
+    <string name="M">E-Mail</string>
+    <string name="play">Abspielen</string>
+    <string name="stop">Halt</string>
+    <string name="camp">Fullen Sie alle Felder aus</string>
+    <string name="bi">Willkommen</string>
+    <string name="uscon">Benutzer oder passwort ist nitch korrekt</string>
+    <string name="YA">Benutzer existiert bereits</string>
+    <string name="uni">Du bist beigetreten</string>
+    <string name="us">Hallo wieder</string>
+    <string name="can">Singen</string>
+    <string name="vu">Komm bald wieder!</string>
+</resources>

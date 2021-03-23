@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paquita</string>
+    <string name="no">Name</string>
+    <string name="bl">Entry</string>
+    <string name="bre">Join</string>
+    <string name="A">Lastname</string>
+    <string name="U">User</string>
+    <string name="P">Password</string>
+    <string name="M">Email</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="camp">Fill all the fields</string>
+    <string name="bi">Wellcome</string>
+    <string name="uscon">User or password is not correct</string>
+    <string name="YA">User  already exist</string>
+    <string name="uni">You have joined</string>
+    <string name="us">Hello again!</string>
+    <string name="can">Sing!</string>
+    <string name="vu">Come back soon!</string>
+</resources>
